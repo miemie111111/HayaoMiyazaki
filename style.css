@@ -1,0 +1,94 @@
+.jun{
+    width: 1000px;
+    margin: auto;
+   
+}
+.logo {
+    padding: 20px;
+ 
+}
+.dao{
+    background-color: #2196F3;
+	text-align: center;
+}
+.dao li{
+    display: inline;
+    line-height: 44px;
+    padding: 0px 20px;
+}
+.dao a{
+    color: #ffffff;
+}
+.datu img{
+    width: 100%;
+}
+.datu{
+    background-color: #ffffff;
+}
+.jieshao{
+    margin-top: 0px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+.jieshao img{
+    float: left;
+    width: 280px;
+    margin: 15px;
+     
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    background-image: url(img/bj.jpg);
+    background-size: 100%;
+ 
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+p{
+    line-height: 38px;
+}
+.zuopin{
+ 
+    background-color: #ffffff;
+}
+ h3{
+   text-align: center;
+    padding: 20px 0px;
+    margin: 0px;
+}
+.zuopin ul{
+    text-align: center;
+}
+.zuopin li {
+    display: inline;
+    margin: 0px 10px;
+}
+
+.zuopin img {
+    width: 220px;
+    height: 360px;
+}
+.foot{
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 80px;
+}
+.jingdong{align-content: center}
+
+		
